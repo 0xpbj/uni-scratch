@@ -1,0 +1,19 @@
+{
+  "name": "uniswap-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/address": "^5.2.0",
+    "@ethersproject/contracts": "^5.2.0",
+    "@ethersproject/providers": "^5.2.0",
+    "@ethersproject/solidity": "^5.2.0",
+    "@uniswap/sdk": "^3.0.3"
+  }
+}
