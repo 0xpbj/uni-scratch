@@ -89,7 +89,7 @@ const MCB_USDC_DYP = async () => {
   console.log('\n\n\n\n\n')
 }
 
-await ETH_DAI()
+// await ETH_DAI()
 // await ETH_USDC_DAI()
 // await MCB_ETH_DYP()
 // await MCB_USDC_DYP()
