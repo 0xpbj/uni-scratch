@@ -18,7 +18,6 @@ const provider = new InfuraProvider("homestead", {
   projectSecret: "4xxx04f"
 });
 
-
 // No HTTP Requests Here Providers
 const ETH_DAI = async () => {
   const DAI = new Token(chainId, '0x6B175474E89094C44Da98b954EedeAC495271d0F', 18, 'DAI', 'Dai Stablecoin')
